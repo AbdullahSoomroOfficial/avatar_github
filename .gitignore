@@ -1,0 +1,13 @@
+
+# ignore_this.txt | this is ignoring specific file 
+# *.docker-compose | this is ignoring all files ending with .docker-compose extension
+# ignoring_folder/ | ignoring a specific file in a directory
+# another_ignore/file_one.txt | ignoring a file within a directory
+# .something   |  ignoring hidden file ending with .hidden 
+
+
+ignore_this.txt
+*.docker-compose
+ignoring_folder/
+another_ignore/file_one.txt
+.hidden
